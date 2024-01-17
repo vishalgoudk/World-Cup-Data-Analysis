@@ -1,5 +1,7 @@
 # World-Cup-Bowling-Data-Analysis
 
+## Project Overview
+
 This project involves a comprehensive analysis of World Cup bowling data obtained from a dataset in CSV format. The focus is on extracting valuable insights from the performances of the top bowlers and teams during the tournament. The analysis is conducted using Python programming language within a Jupyter Notebook, leveraging libraries such as Pandas, NumPy, Matplotlib, and Seaborn for efficient data manipulation, numerical operations, and visualization.
 
 # Tools Used
